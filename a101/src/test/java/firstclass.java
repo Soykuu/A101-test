@@ -44,7 +44,7 @@ public class firstclass {
         WebElement devamet = driver.findElement(By.cssSelector("a.auth__form__proceed.js-proceed-to-checkout-btn"));
         devamet.click();
         WebElement email = driver.findElement(By.xpath("//input[@name='user_email']"));
-        email.sendKeys("testoyku10@a101.com");
+        email.sendKeys("testoyku11@a101.com");
         driver.findElement(By.xpath("//button[@class='button block green']")).click();
         driver.findElement(By.xpath("//a[@class='new-address js-new-address']")).click();
 
@@ -73,7 +73,7 @@ public class firstclass {
         Thread.sleep(500);
 
         WebElement adres= driver.findElement(By.xpath("//textarea[@class='js-address-textarea']"));
-        adres.sendKeys("SATFCO5LASKHGY89DS54YE");
+        adres.sendKeys("SATFCO5LASKHGY89DYS54YE");
 
         driver.findElement(By.xpath("//button[@class='button green address-modal-submit-button js-set-country js-prevent-emoji js-address-form-submit-button']")).click();
 
