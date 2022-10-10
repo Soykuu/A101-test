@@ -1,9 +1,0 @@
-driver.findElement(By.xpath("//input[@id='attributes_integration_colourSİYAH']")).click();
-
-
-String expectedSecilenRenk = "'SİYAH'";
-        String actualSecilenRenk = SecilenRenk.getText();
-        if (expectedSecilenRenk.equals(actualSecilenRenk)){
-            System.out.println("Seçilen renk siyah.");
-        }
-        else { System.out.println("Seçilen renk farklı."); }
