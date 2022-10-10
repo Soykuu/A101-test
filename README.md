@@ -1,6 +1,12 @@
-# A101-test 
-Test Otomasyon Practicum Case
-Adımlar;
+## A101-Test Otomasyon Practicum Case
+A101 **web sitesinde** (https://www.a101.com.tr/) Patika.dev test case'inde belirtilen adımlar izlenerek ödeme ekranına gidilebildiği testi yapılmıştır.
+<p align="left">
+<a href="https://www.a101.com.tr/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A101_logo.svg/2560px-A101_logo.svg.png" alt="A101" width="100" height="60"/> </a> 🤝 <a href="https://www.patika.dev/tr" target="_blank" rel="noreferrer"> <img src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png" alt="patika" width="100" height="60"/> </a>
+</p>
+<h>
+<p align="left">
+Test Steps;
+</p>
 -Web sitesine gidilir.
 -Cerezler kabul edilir.
 -Giyim-Aksesuar butonuna tıklanır.
@@ -28,6 +34,7 @@ Adımlar;
 -Kaydet ve Devam Et butonuna basılır.
 -Siparişi Tamamla butonuna basılır
 -Sipariş ekranına gelindiği doğrulanır.
+</h>
 
 ## Kullanılan Teknolojiler
 
@@ -36,3 +43,7 @@ Adımlar;
 **Selenium:** Web Sitesini test etmek için kullanılan Test Otomasyon aracıdır.
 
 **Maven:** Java platformunda yer alan komutların derlenmesi sırasında kullanılan araçtır.
+
+## Test Koşum Videosu
+
+https://drive.google.com/file/d/1iZlwJMlDmVm04Vw7euYEtwduzIuZxHh-/view?usp=sharing
