@@ -38,9 +38,9 @@ Test Adımları;
 
 ## Kullanılan Teknolojiler
 
-**Java:** Projenin yazılmış olduğu programlama dilidir
+**Java:** Projenin yazılmış olduğu programlama dilidir.
 
-**Selenium:** Web Sitesini test etmek için kullanılan Test Otomasyon aracıdır.
+**Selenium:** Web Sitesini test etmek için kullanılan test otomasyon aracıdır.
 
 **Maven:** Java platformunda yer alan komutların derlenmesi sırasında kullanılan araçtır.
 
