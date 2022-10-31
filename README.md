@@ -1,4 +1,4 @@
-## A101-Test Otomasyon Practicum Case
+## A101-Test Otomasyon Practicum Katılım Projesi
 Patika'nın test senaryosunda belirtilen adımlar takip edilerek ödeme ekranına ulaşılabildiği A101 **web sitesinde** (https://www.a101.com.tr/)test edilmiştir.
 <p align="left">
 <a href="https://www.a101.com.tr/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A101_logo.svg/2560px-A101_logo.svg.png" alt="A101" width="100" height="60"/> </a> 🤝 <a href="https://www.patika.dev/tr" target="_blank" rel="noreferrer"> <img src="https://global-uploads.webflow.com/6097e0eca1e87557da031fef/609859a191abe5d64b17fed3_Patika%20logo.png" alt="patika" width="100" height="60"/> </a>
